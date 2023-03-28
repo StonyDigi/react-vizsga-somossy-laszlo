@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Visi at here in live: https://react-vizsga-project-somossy-laszlo.netlify.app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
